@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-5a1ca": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-5a1ca"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-5a1ca"
+  }
+}
